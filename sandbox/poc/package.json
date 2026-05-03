@@ -11,6 +11,6 @@
     "prompt": "time node --no-deprecation prompter.js"
   },
   "dependencies": {
-    "llamaindex": "^0.0.0-20231026231921"
+    "llamaindex": "^0.12.1"
   }
 }
